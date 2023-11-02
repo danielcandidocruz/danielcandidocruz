@@ -4,17 +4,14 @@ Sou Daniel Cruz, um apaixonado desenvolvedor de software e entusiasta de tecnolo
 
 
 
-<table>
-  <a href="https://github.com/danielcandidocruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielcandidocruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcandidocruz&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://icons8.com/icon/13679/java" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://img.icons8.com/color/2x/MySQL" width="120" alt="MySQL">
-  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/React.JS-226015.png" width="120" alt="React.JS">
-</table>
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=Java&logoColor=white" />
+</div><br/>
 
 <div> 
   
