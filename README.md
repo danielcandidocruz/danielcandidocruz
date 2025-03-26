@@ -11,7 +11,7 @@ Compute & Storage: EC2, S3, Lambda, ECS
 
 Database & Governance: RDS, IAM
 
-Event-Driven Architectures: SNS, SQS.".</p>.</p>.</p>&nbsp;
+Event-Driven Architectures: SNS, SQS."</p>&nbsp;
 
 
 ## My Skills
