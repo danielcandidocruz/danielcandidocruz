@@ -1,8 +1,17 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100%/>
-&nbsp;&nbsp;&nbsp;
 
+<p align="center">I love solving big challenges using technology.
 
-<p align="center">"I love solving big challenges using technology.Data Analyst passionate about solving complex problems through technology. I like to balance my career between technical skills and soft skills, which is why I’ve gained experience with an analytical profile—continuously analyzing and improving data while delivering the best solution.".</p>.</p>.</p>&nbsp;
+Data Analyst passionate about solving complex problems through data-driven solutions and cloud computing. I balance my career between technical skills (AWS, data engineering, and analytics) and soft skills, leveraging an analytical mindset to continuously improve processes and deliver impactful results.
+
+AWS Proficiencies:
+
+Data & Analytics: Athena, QuickSight, Redshift, Glue, EMR
+
+Compute & Storage: EC2, S3, Lambda, ECS
+
+Database & Governance: RDS, IAM
+
+Event-Driven Architectures: SNS, SQS.".</p>.</p>.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
