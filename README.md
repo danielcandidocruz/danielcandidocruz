@@ -1,7 +1,7 @@
 
 <p align="center">I love solving big challenges using technology.
 
-Data Analyst passionate about solving complex problems through data-driven solutions and cloud computing. I balance my career between technical skills (AWS, data engineering, and analytics) and soft skills, leveraging an analytical mindset to continuously improve processes and deliver impactful results.
+Data Engineer passionate about solving complex problems through data-driven solutions and cloud computing. I balance my career between technical skills (AWS, data engineering, and analytics) and soft skills, leveraging an analytical mindset to continuously improve processes and deliver impactful results.
 
 AWS Proficiencies:
 
